@@ -1,3 +1,5 @@
+The steps below will allow one to implement the policy search algorithm, as described in the paper: Guan Q, Reich BJ, Laber E and Bandyopadhyay D. (2020). Bayesian nonparametric policy search with applications to periodontal recall intervals, Journal of the American Statistical Association - Applications & Case Studies,  105(531), 1066-1078
+
 1. "Sim_DPM" is the main file used to run the demo code. It consists of five main steps:
    (1) Set simulation parameters
    (2) Generate a dataset
